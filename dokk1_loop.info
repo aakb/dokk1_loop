@@ -1,0 +1,6 @@
+name = Dokk1
+description = This is a sub-theme of theme Loop
+core = 7.x
+base theme = loop
+
+stylesheets[all][] = css/styles.css
